@@ -5,7 +5,7 @@
   "description": "vue_kityminder_plus",
   "author": "ymfl <395041293@qq.com>",
   "main": "dist/index.umd.js",
-  "homepage": "https://github.com/YMFL/ymfl-kityMinder",
+  "homepage": "https://github.com/zhangfupeng1994/vue_kityminder_plus",
   "license": "GPL-2.0",
   "scripts": {
     "dev": "vue-cli-service serve",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YMFL/ymfl-kityMinder.git"
+    "url": "git+https://github.com/zhangfupeng1994/vue_kityminder_plus.git"
   },
   "dependencies": {
     "core-js": "^3.3.2",
@@ -57,7 +57,7 @@
     "last 2 versions"
   ],
   "bugs": {
-    "url": "https://github.com/YMFL/ymfl-kityMinder/issues"
+    "url": "https://github.com/zhangfupeng1994/vue_kityminder_plus"
   },
   "directories": {
     "example": "examples"
